@@ -1,0 +1,33 @@
+div p { }
+
+div h2 { }
+
+#test p { }
+
+#test h2 { }
+
+.bbb { }
+
+#test .bbb { }
+
+p.bbb { }
+
+h2.bbb { }
+
+#test p.bbb { }
+
+.bbb, .xxx { }
+
+p.bbb, h2.xxx { }
+
+#test p.bbb, #test p.xxx { }
+
+.fff { }
+
+p.fff { }
+
+p, .fff { }
+
+.bbb.fff { }
+
+h2.bbb.fff { }

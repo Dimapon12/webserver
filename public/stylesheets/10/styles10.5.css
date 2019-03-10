@@ -1,0 +1,29 @@
+#ul1{
+	list-style-type: square;
+}
+#ul2{
+	list-style-type: circle;
+}
+#ul3{
+	list-style-type: disk;
+}
+#ul4{
+	list-style-type: none;
+}
+#ul5{
+	list-style-type: none;
+	list-style-image: url(/stylesheets/10/img10.5.gif);
+	
+}
+#ol2{
+	list-style-type: lower-alpha;
+	
+}
+#ol2{
+	list-style-type: lower-greek;
+	
+}
+#ol3{
+	list-style-type: upper-alpha;
+	
+}

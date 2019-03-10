@@ -1,0 +1,9 @@
+body{
+	background: url(stylesheets/9/fon9.4.jpg) repeat-y right top;
+}
+p{
+	width: 500px; 
+	text-align: justify; 
+	font-weight: bold; 
+}
+h1, p{color: black;}
